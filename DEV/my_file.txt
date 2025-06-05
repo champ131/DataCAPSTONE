@@ -1,0 +1,20 @@
+How Python Handles Files?
+If you are working in a large software application where they process a large amount
+of data, then we cannot expect that data to be stored in a variable as the variables are
+volatile in nature.
+
+Hence when you are about to handle such situations, the role of files will come into
+the picture.
+
+As files are non-volatile in nature, the data will be stored permanently in a secondary
+device like Hard Disk and using python we will handle these files in our applications.
+
+Are you thinking about how python will handle files?
+
+Let’s take an Example of how normal people will handle the files. If we want to read
+the data from a file or write the data into a file, then, first of all, we will open the file
+or will create a new file if the file does not exist and then perform the normal
+read/write operations, save the file and close it.
+
+Similarly, we do the same operations in python using some in-built methods or
+functions.

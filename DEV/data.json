@@ -1,0 +1,6 @@
+{
+"firstName": "Young Wook", "lastName": "Baek",
+"studentId": 816,
+"courses": [ {"courseId": 677, "courseName": "Data Engineering"},
+{"courseId": 685, "courseName": "Data Science"} ]
+}
