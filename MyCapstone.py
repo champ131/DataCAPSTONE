@@ -2,7 +2,7 @@
 import pandas as pd
 
 # Load your customer data into a DataFrame
-df_customer = pd.read_csv(r"C:\Users\carlton.powell\OneDrive - Accenture\Desktop\DATA\cleaned_cdw_sapp_customer1.csv")
+
 
 
 
